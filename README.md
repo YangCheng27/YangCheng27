@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this is Yang 👋
 
 <!--
 **YangCheng27/YangCheng27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub! 🚀  
+This space is currently **under construction** 🤔, but stay tuned—more exciting projects related to **computer vision** and **deep learning** are coming soon. 😄
